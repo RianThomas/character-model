@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Keras](https://img.shields.io/badge/Keras-CNN-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A deep learning project that classifies **62 English characters** (digits, uppercase letters, and lowercase letters) using a custom Convolutional Neural Network built with TensorFlow/Keras.
 
